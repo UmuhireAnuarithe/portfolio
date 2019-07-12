@@ -24,3 +24,15 @@ p{
   font-style: oblique;
   font-size: 20px;
 }
+#hobies{
+  display:flex;
+  flex-direction: row;
+
+  justify-content: space-around;}
+
+.skills{
+  float: left;
+}
+.interests{
+
+}

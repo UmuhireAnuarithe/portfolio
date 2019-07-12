@@ -28,11 +28,10 @@ p{
   display:flex;
   flex-direction: row;
 
-  justify-content: space-around;}
-
-.skills{
-  float: left;
+  justify-content: space-around;
+  font:  sans-serif;
+  font-size: 20px;
 }
-.interests{
-
+#header{
+  background-color: aqua;
 }

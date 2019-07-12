@@ -11,11 +11,16 @@ span{
 img{
   margin-left: 100px;
 margin-top: 50px;
-
+border: solid burlywood 10px ;
 }
 h2{
   color: blueviolet;
   text-align: center;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Verdana, sans-serif;
   font-size: 50px;
+}
+p{
+  margin-left: 100px;
+  font-style: oblique;
+  font-size: 20px;
 }

@@ -12,5 +12,5 @@ None
  ### styled by
  -CSS
 #### github link
-https://github.com/UmuhireAnuarithe/portfolio/tree/master               
+https://umuhireanuarithe.github.io/portfolio/              
 ##### you can leave comment.

@@ -9,6 +9,7 @@ h1{
   display:flex;
   flex-direction: row;
   justify-content: space-around;
+  background-color: none;
   
 
 }
@@ -32,9 +33,10 @@ span{
   font-size: 20px;
   background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://previews.123rf.com/images/auxins/auxins1810/auxins181000045/110024530-flat-lay-office-table-with-laptop-computer-digital-tablet-mobile-phone-and-accessories-on-two-tone-w.jpg");
   width: 100% 100% ;
-  height: 400px;
-;
+  height: 690px;
+
 }
+
 h2{
   color: blue;
   text-align: center;
@@ -51,7 +53,7 @@ p{
 }
 .row{ display:flex;
   flex-direction: row;
-
+  background-color: gray;
   justify-content: space-around;
   font:  sans-serif;
   font-size: 20px;
